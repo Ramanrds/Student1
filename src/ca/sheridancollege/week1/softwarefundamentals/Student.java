@@ -12,14 +12,18 @@ package ca.sheridancollege.week1.softwarefundamentals;
 public class Student {
     
     private String name;
+    int num;
+    float num2;
 
     /**
      * Get the value of name
      *
      * @return the value of name
      *///
+    
     public String getName() {
         return name;
+        
     }
 
     /**
