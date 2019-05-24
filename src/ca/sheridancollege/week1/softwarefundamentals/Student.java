@@ -8,7 +8,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 /**
  *
  * @author sidhu376; CHANGE YAHAN HAI2222222
- */
+ 2ND CHANGE IS HERE AB*/
 public class Student {
     
     private String name;
