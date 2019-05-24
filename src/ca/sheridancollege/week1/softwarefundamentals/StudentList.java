@@ -7,7 +7,7 @@ CHNGECHNGE */
 package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
- *
+ *WHEN WILL THIS CHANGE TAKE PLACE?
  * @author sidhu376
  */
 public class StudentList {
