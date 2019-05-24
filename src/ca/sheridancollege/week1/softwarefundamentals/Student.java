@@ -7,7 +7,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
 
 /**
  *
- * @author sidhu376
+ * @author sidhu376; CHANGE YAHAN HAI2222222
  */
 public class Student {
     
